@@ -11,9 +11,6 @@ if x % 3 == 0:
 if x > 90:
     print("Shetland")
 if x % 2 == 0:
-    print("Throughbred") #test msweartest
+    print("Throughbred") 
 
-#this is a difference that shoul dbe highlighted!
-
-#wijfowjfe #wlejfwifeaoewjfoiwajfe
-#so let's say i changed the code
+# we figured it out!
